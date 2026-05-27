@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-05-27",
+    "total_repos": 74,
+    "top_5": [
+      {
+        "name": "NousResearch/hermes-agent",
+        "score": 23.1,
+        "stars": 169178,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "thedotmack/claude-mem",
+        "score": 22.0,
+        "stars": 78853,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "affaan-m/ECC",
+        "score": 21.4,
+        "stars": 194891,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "farion1231/cc-switch",
+        "score": 20.8,
+        "stars": 82070,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "nexu-io/open-design",
+        "score": 20.3,
+        "stars": 53185,
+        "domain": "coding-agents"
+      }
+    ],
+    "starred": 5,
+    "skills_written": 3
+  }
+]
