@@ -340,5 +340,43 @@
     ],
     "starred": 0,
     "skills_written": 0
+  },
+  {
+    "date": "2026-05-30",
+    "total_repos": 74,
+    "top_5": [
+      {
+        "name": "thedotmack/claude-mem",
+        "score": 22.1,
+        "stars": 79749,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "affaan-m/ECC",
+        "score": 21.4,
+        "stars": 199273,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "farion1231/cc-switch",
+        "score": 20.9,
+        "stars": 85556,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "multica-ai/andrej-karpathy-skills",
+        "score": 20.0,
+        "stars": 162538,
+        "domain": "coding-agents"
+      },
+      {
+        "name": "nexu-io/open-design",
+        "score": 19.9,
+        "stars": 55924,
+        "domain": "coding-agents"
+      }
+    ],
+    "starred": 0,
+    "skills_written": 0
   }
 ]
