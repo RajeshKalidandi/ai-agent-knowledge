@@ -1,7 +1,16 @@
 # ai-agent-knowledge
 
-> **From trending noise to curated intelligence.**  
-> Autonomous daily ingestion system that discovers, scores, and documents AI tools relevant to Rajesh's stack.
+> **From trending noise to curated intelligence.**
+
+## 🤖 Maintenance
+
+This repository is **maintained autonomously by AI agents** running on my VPS (cron-driven, daily). All architecture, scoring weights, source selection, dedup logic, and operational infrastructure were designed and deployed by me. The agents handle the day-to-day ingestion; I own the system design and review the output.
+
+If you're evaluating this work: the engineering is in *how the ingestion pipeline works* (cron scheduling, scoring formulas, dedup memory, daily/weekly/monthly aggregation), not in the raw counts.
+
+---
+
+Autonomous daily ingestion system that discovers, scores, and documents AI tools relevant to Rajesh's stack.
 
 ## Structure
 
