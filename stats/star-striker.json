@@ -155,160 +155,316 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-07",
+      "dry_run": false,
+      "started_at": "2026-06-07 01:00",
+      "actions": [
+        {
+          "repo": "huangserva/claude-code-cli",
+          "stars": 598,
+          "reason": "seed",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "openclaw/openclaw",
+          "stars": 377287,
+          "reason": "seed",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "Significant-Gravitas/AutoGPT",
+          "stars": 184799,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "langchain-ai/langchain",
+          "stars": 138676,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 105011,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "browser-use/browser-use",
+          "stars": 97490,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "infiniflow/ragflow",
+          "stars": 82045,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "thedaviddias/Front-End-Checklist",
+          "stars": 72848,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "daytonaio/daytona",
+          "stars": 72482,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "ruvnet/ruflo",
+          "stars": 58225,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "Fosowl/agenticSeek",
+          "stars": 26469,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "NirDiamant/GenAI_Agents",
+          "stars": 22408,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "VoltAgent/awesome-claude-code-subagents",
+          "stars": 21291,
+          "reason": "topic:ai-agent-framework",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "esengine/DeepSeek-Reasonix",
+          "stars": 18830,
+          "reason": "topic:coding-agent",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "vxcontrol/pentagi",
+          "stars": 17522,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "cft0808/edict",
+          "stars": 15993,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "triggerdotdev/trigger.dev",
+          "stars": 15239,
+          "reason": "topic:ai-agent-framework",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "aiming-lab/AutoResearchClaw",
+          "stars": 13207,
+          "reason": "topic:llm-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+          "stars": 12377,
+          "reason": "topic:llm-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "aden-hive/hive",
+          "stars": 10498,
+          "reason": "topic:autonomous-agents",
+          "ts": "2026-06-07 01:00",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 5,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4856,
+      "finished_at": "2026-06-07 01:00",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-06",
-    "dry_run": true,
-    "started_at": "2026-06-06 09:36",
+    "date": "2026-06-07",
+    "dry_run": false,
+    "started_at": "2026-06-07 01:00",
     "actions": [
       {
         "repo": "huangserva/claude-code-cli",
-        "stars": 597,
+        "stars": 598,
         "reason": "seed",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "openclaw/openclaw",
-        "stars": 377171,
+        "stars": 377287,
         "reason": "seed",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "Significant-Gravitas/AutoGPT",
-        "stars": 184788,
+        "stars": 184799,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "langchain-ai/langchain",
-        "stars": 138625,
+        "stars": 138676,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "google-gemini/gemini-cli",
-        "stars": 104986,
+        "stars": 105011,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "browser-use/browser-use",
-        "stars": 97404,
+        "stars": 97490,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "infiniflow/ragflow",
-        "stars": 82008,
+        "stars": 82045,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "thedaviddias/Front-End-Checklist",
-        "stars": 72834,
+        "stars": 72848,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "daytonaio/daytona",
-        "stars": 72493,
+        "stars": 72482,
         "reason": "topic:ai-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "ruvnet/ruflo",
-        "stars": 58103,
+        "stars": 58225,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "Fosowl/agenticSeek",
-        "stars": 26467,
+        "stars": 26469,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "NirDiamant/GenAI_Agents",
-        "stars": 22395,
+        "stars": 22408,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "VoltAgent/awesome-claude-code-subagents",
-        "stars": 21258,
+        "stars": 21291,
         "reason": "topic:ai-agent-framework",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "esengine/DeepSeek-Reasonix",
-        "stars": 18611,
+        "stars": 18830,
         "reason": "topic:coding-agent",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "vxcontrol/pentagi",
-        "stars": 17504,
+        "stars": 17522,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "cft0808/edict",
-        "stars": 15988,
+        "stars": 15993,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "triggerdotdev/trigger.dev",
-        "stars": 15235,
+        "stars": 15239,
         "reason": "topic:ai-agent-framework",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "aiming-lab/AutoResearchClaw",
-        "stars": 13184,
+        "stars": 13207,
         "reason": "topic:llm-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-        "stars": 12376,
+        "stars": 12377,
         "reason": "topic:llm-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       },
       {
         "repo": "aden-hive/hive",
         "stars": 10498,
         "reason": "topic:autonomous-agents",
-        "ts": "2026-06-06 09:36",
-        "mode": "would-star"
+        "ts": "2026-06-07 01:00",
+        "mode": "starred"
       }
     ],
     "starred_count": 20,
     "skipped_already_starred": 5,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4943,
-    "finished_at": "2026-06-06 09:36",
+    "rate_remaining": 4856,
+    "finished_at": "2026-06-07 01:00",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40

@@ -3,5 +3,12 @@
     "date": "2026-06-06",
     "skills": [],
     "candidate_count": 10
+  },
+  {
+    "date": "2026-06-07",
+    "skills": [
+      "coding-agents/graphify"
+    ],
+    "candidate_count": 10
   }
 ]
