@@ -467,160 +467,50 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-09",
+      "dry_run": false,
+      "started_at": "2026-06-09 01:00",
+      "actions": [
+        {
+          "repo": "WenyuChiou/awesome-agentic-ai-zh",
+          "stars": 2023,
+          "reason": "topic:llm-agents",
+          "ts": "2026-06-09 01:00",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 1,
+      "skipped_already_starred": 45,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4873,
+      "finished_at": "2026-06-09 01:00",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-08",
+    "date": "2026-06-09",
     "dry_run": false,
-    "started_at": "2026-06-08 01:00",
+    "started_at": "2026-06-09 01:00",
     "actions": [
       {
-        "repo": "MervinPraison/PraisonAI",
-        "stars": 8094,
-        "reason": "topic:ai-agent-framework",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "Upsonic/Upsonic",
-        "stars": 7874,
-        "reason": "topic:autonomous-agents",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "YaoApp/yao",
-        "stars": 7542,
-        "reason": "topic:autonomous-agents",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "1jehuang/jcode",
-        "stars": 6929,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "GetBindu/Bindu",
-        "stars": 6833,
-        "reason": "topic:autonomous-agents",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "crestalnetwork/intentkit",
-        "stars": 6500,
-        "reason": "topic:ai-agent-framework",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "rllm-org/rllm",
-        "stars": 5596,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "cloudflare/vibesdk",
-        "stars": 5075,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "camel-ai/oasis",
-        "stars": 4744,
+        "repo": "WenyuChiou/awesome-agentic-ai-zh",
+        "stars": 2023,
         "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "IBM/mcp-context-forge",
-        "stars": 3837,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "HKUDS/Paper2Slides",
-        "stars": 3707,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "Mirix-AI/MIRIX",
-        "stars": 3547,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "CommandCodeAI/command-code",
-        "stars": 3340,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "superagent-ai/grok-cli",
-        "stars": 3133,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "strukto-ai/mirage",
-        "stars": 3085,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "teaql/teaql-agent-kit",
-        "stars": 2770,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "google/agents-cli",
-        "stars": 2723,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "CoderLuii/HolyClaude",
-        "stars": 2322,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "alvinreal/awesome-autoresearch",
-        "stars": 2164,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-08 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "nexu-io/html-video",
-        "stars": 2033,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-08 01:01",
+        "ts": "2026-06-09 01:00",
         "mode": "starred"
       }
     ],
-    "starred_count": 20,
-    "skipped_already_starred": 25,
+    "starred_count": 1,
+    "skipped_already_starred": 45,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4836,
-    "finished_at": "2026-06-08 01:01",
+    "rate_remaining": 4873,
+    "finished_at": "2026-06-09 01:00",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
