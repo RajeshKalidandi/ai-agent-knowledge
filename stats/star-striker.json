@@ -490,27 +490,34 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-10",
+      "dry_run": false,
+      "started_at": "2026-06-10 01:00",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 46,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 25,
+      "finished_at": "2026-06-10 01:00",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-09",
+    "date": "2026-06-10",
     "dry_run": false,
-    "started_at": "2026-06-09 01:00",
-    "actions": [
-      {
-        "repo": "WenyuChiou/awesome-agentic-ai-zh",
-        "stars": 2023,
-        "reason": "topic:llm-agents",
-        "ts": "2026-06-09 01:00",
-        "mode": "starred"
-      }
-    ],
-    "starred_count": 1,
-    "skipped_already_starred": 45,
+    "started_at": "2026-06-10 01:00",
+    "actions": [],
+    "starred_count": 0,
+    "skipped_already_starred": 46,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4873,
-    "finished_at": "2026-06-09 01:00",
+    "rate_remaining": 25,
+    "finished_at": "2026-06-10 01:00",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
