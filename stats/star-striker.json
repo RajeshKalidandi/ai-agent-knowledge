@@ -535,34 +535,49 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-12",
+      "dry_run": false,
+      "started_at": "2026-06-12 01:00",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 46,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 25,
+      "finished_at": "2026-06-12 01:01",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-12",
+      "dry_run": true,
+      "started_at": "2026-06-12 05:11",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 0,
+      "skipped_unverifiable": 0,
+      "aborted": true,
+      "rate_remaining": 9,
+      "finished_at": "2026-06-12 05:12",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-11",
-    "dry_run": false,
-    "started_at": "2026-06-11 01:00",
-    "actions": [
-      {
-        "repo": "openinterpreter/openinterpreter",
-        "stars": 63852,
-        "reason": "topic:coding-agent",
-        "ts": "2026-06-11 01:01",
-        "mode": "starred"
-      },
-      {
-        "repo": "OthmanAdi/planning-with-files",
-        "stars": 23008,
-        "reason": "topic:autonomous-agents",
-        "ts": "2026-06-11 01:01",
-        "mode": "starred"
-      }
-    ],
-    "starred_count": 2,
-    "skipped_already_starred": 44,
+    "date": "2026-06-12",
+    "dry_run": true,
+    "started_at": "2026-06-12 05:11",
+    "actions": [],
+    "starred_count": 0,
+    "skipped_already_starred": 0,
     "skipped_unverifiable": 0,
-    "aborted": false,
-    "rate_remaining": 4899,
-    "finished_at": "2026-06-11 01:01",
+    "aborted": true,
+    "rate_remaining": 9,
+    "finished_at": "2026-06-12 05:12",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
