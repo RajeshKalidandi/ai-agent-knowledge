@@ -655,19 +655,517 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-16",
+      "dry_run": true,
+      "started_at": "2026-06-16 00:36",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 0,
+      "skipped_unverifiable": 0,
+      "aborted": true,
+      "rate_remaining": 9,
+      "finished_at": "2026-06-16 00:36",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-16",
+      "dry_run": true,
+      "started_at": "2026-06-16 00:36",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 0,
+      "skipped_unverifiable": 0,
+      "aborted": true,
+      "rate_remaining": 8,
+      "finished_at": "2026-06-16 00:36",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 15
+    },
+    {
+      "date": "2026-06-16",
+      "dry_run": true,
+      "started_at": "2026-06-16 00:38",
+      "actions": [],
+      "starred_count": 0,
+      "skipped_already_starred": 0,
+      "skipped_unverifiable": 0,
+      "aborted": true,
+      "rate_remaining": 9,
+      "finished_at": "2026-06-16 00:38",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-16",
+      "dry_run": true,
+      "started_at": "2026-06-16 00:39",
+      "actions": [
+        {
+          "repo": "freeCodeCamp/freeCodeCamp",
+          "stars": 447782,
+          "reason": "topic:react",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "vinta/awesome-python",
+          "stars": 303074,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "react/react",
+          "stars": 245876,
+          "reason": "topic:react",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "TheAlgorithms/Python",
+          "stars": 221969,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "tensorflow/tensorflow",
+          "stars": 195676,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "n8n-io/n8n",
+          "stars": 192644,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "microsoft/vscode",
+          "stars": 186339,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "avelino/awesome-go",
+          "stars": 175522,
+          "reason": "topic:go",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "ollama/ollama",
+          "stars": 174239,
+          "reason": "topic:go",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "yt-dlp/yt-dlp",
+          "stars": 170800,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "f/prompts.chat",
+          "stars": 163776,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "huggingface/transformers",
+          "stars": 161602,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "521xueweihan/HelloGitHub",
+          "stars": 161464,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "langgenius/dify",
+          "stars": 145336,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "vercel/next.js",
+          "stars": 140026,
+          "reason": "topic:react",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "golang/go",
+          "stars": 134724,
+          "reason": "topic:go",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "react/react-native",
+          "stars": 126015,
+          "reason": "topic:react",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "kubernetes/kubernetes",
+          "stars": 123035,
+          "reason": "topic:kubernetes",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "Comfy-Org/ComfyUI",
+          "stars": 117106,
+          "reason": "topic:python",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        },
+        {
+          "repo": "shadcn-ui/ui",
+          "stars": 116646,
+          "reason": "topic:react",
+          "ts": "2026-06-16 00:40",
+          "mode": "would-star"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 8,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4842,
+      "finished_at": "2026-06-16 00:40",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-16",
+      "dry_run": false,
+      "started_at": "2026-06-16 07:00",
+      "actions": [
+        {
+          "repo": "freeCodeCamp/freeCodeCamp",
+          "stars": 447908,
+          "reason": "topic:react",
+          "ts": "2026-06-16 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "vinta/awesome-python",
+          "stars": 303120,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "react/react",
+          "stars": 245885,
+          "reason": "topic:react",
+          "ts": "2026-06-16 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "TheAlgorithms/Python",
+          "stars": 221978,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "tensorflow/tensorflow",
+          "stars": 195679,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "n8n-io/n8n",
+          "stars": 192675,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "microsoft/vscode",
+          "stars": 186348,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "avelino/awesome-go",
+          "stars": 175540,
+          "reason": "topic:go",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "ollama/ollama",
+          "stars": 174261,
+          "reason": "topic:go",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "yt-dlp/yt-dlp",
+          "stars": 170842,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "f/prompts.chat",
+          "stars": 163781,
+          "reason": "topic:typescript",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "huggingface/transformers",
+          "stars": 161612,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "521xueweihan/HelloGitHub",
+          "stars": 161478,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "langgenius/dify",
+          "stars": 145355,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "vercel/next.js",
+          "stars": 140028,
+          "reason": "topic:react",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "golang/go",
+          "stars": 134727,
+          "reason": "topic:go",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "react/react-native",
+          "stars": 126015,
+          "reason": "topic:react",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "kubernetes/kubernetes",
+          "stars": 123037,
+          "reason": "topic:kubernetes",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "Comfy-Org/ComfyUI",
+          "stars": 117127,
+          "reason": "topic:python",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "shadcn-ui/ui",
+          "stars": 116655,
+          "reason": "topic:react",
+          "ts": "2026-06-16 07:01",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 8,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4927,
+      "finished_at": "2026-06-16 07:01",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
     "date": "2026-06-16",
-    "dry_run": true,
-    "started_at": "2026-06-16 00:29",
-    "actions": [],
-    "starred_count": 0,
-    "skipped_already_starred": 0,
+    "dry_run": false,
+    "started_at": "2026-06-16 07:00",
+    "actions": [
+      {
+        "repo": "freeCodeCamp/freeCodeCamp",
+        "stars": 447908,
+        "reason": "topic:react",
+        "ts": "2026-06-16 07:00",
+        "mode": "starred"
+      },
+      {
+        "repo": "vinta/awesome-python",
+        "stars": 303120,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:00",
+        "mode": "starred"
+      },
+      {
+        "repo": "react/react",
+        "stars": 245885,
+        "reason": "topic:react",
+        "ts": "2026-06-16 07:00",
+        "mode": "starred"
+      },
+      {
+        "repo": "TheAlgorithms/Python",
+        "stars": 221978,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:00",
+        "mode": "starred"
+      },
+      {
+        "repo": "tensorflow/tensorflow",
+        "stars": 195679,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:00",
+        "mode": "starred"
+      },
+      {
+        "repo": "n8n-io/n8n",
+        "stars": 192675,
+        "reason": "topic:typescript",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "microsoft/vscode",
+        "stars": 186348,
+        "reason": "topic:typescript",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "avelino/awesome-go",
+        "stars": 175540,
+        "reason": "topic:go",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "ollama/ollama",
+        "stars": 174261,
+        "reason": "topic:go",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "yt-dlp/yt-dlp",
+        "stars": 170842,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "f/prompts.chat",
+        "stars": 163781,
+        "reason": "topic:typescript",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "huggingface/transformers",
+        "stars": 161612,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "521xueweihan/HelloGitHub",
+        "stars": 161478,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "langgenius/dify",
+        "stars": 145355,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "vercel/next.js",
+        "stars": 140028,
+        "reason": "topic:react",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "golang/go",
+        "stars": 134727,
+        "reason": "topic:go",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "react/react-native",
+        "stars": 126015,
+        "reason": "topic:react",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "kubernetes/kubernetes",
+        "stars": 123037,
+        "reason": "topic:kubernetes",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "Comfy-Org/ComfyUI",
+        "stars": 117127,
+        "reason": "topic:python",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "shadcn-ui/ui",
+        "stars": 116655,
+        "reason": "topic:react",
+        "ts": "2026-06-16 07:01",
+        "mode": "starred"
+      }
+    ],
+    "starred_count": 20,
+    "skipped_already_starred": 8,
     "skipped_unverifiable": 0,
-    "aborted": true,
-    "rate_remaining": 9,
-    "finished_at": "2026-06-16 00:29",
+    "aborted": false,
+    "rate_remaining": 4927,
+    "finished_at": "2026-06-16 07:01",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
