@@ -1012,160 +1012,316 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-17",
+      "dry_run": false,
+      "started_at": "2026-06-17 07:00",
+      "actions": [
+        {
+          "repo": "harry0703/MoneyPrinterTurbo",
+          "stars": 88852,
+          "reason": "topic:kw:ai automation",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "lobehub/lobehub",
+          "stars": 78745,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "ruvnet/RuView",
+          "stars": 74229,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "JuliusBrussee/caveman",
+          "stars": 73608,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "stars": 71338,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "OpenBB-finance/OpenBB",
+          "stars": 69284,
+          "reason": "topic:kw:data agent",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "safishamsi/graphify",
+          "stars": 68237,
+          "reason": "topic:claude-code",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "microsoft/ai-agents-for-beginners",
+          "stars": 67391,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "shareAI-lab/learn-claude-code",
+          "stars": 66967,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "ComposioHQ/awesome-claude-skills",
+          "stars": 64867,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "D4Vinci/Scrapling",
+          "stars": 64342,
+          "reason": "topic:kw:ai automation",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "gsd-build/get-shit-done",
+          "stars": 64279,
+          "reason": "topic:claude-code",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 63395,
+          "reason": "topic:kw:autonomous",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "rtk-ai/rtk",
+          "stars": 62994,
+          "reason": "topic:ai-coding",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "code-yeongyu/oh-my-openagent",
+          "stars": 62478,
+          "reason": "topic:ai-agents",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "Egonex-AI/Understand-Anything",
+          "stars": 61672,
+          "reason": "topic:claude-code",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "addyosmani/agent-skills",
+          "stars": 61277,
+          "reason": "topic:claude-code",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "shanraisshan/claude-code-best-practice",
+          "stars": 57979,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "santifer/career-ops",
+          "stars": 54225,
+          "reason": "topic:claude",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "crewAIInc/crewAI",
+          "stars": 53727,
+          "reason": "topic:kw:autonomous",
+          "ts": "2026-06-17 07:01",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 20,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4915,
+      "finished_at": "2026-06-17 07:01",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-16",
+    "date": "2026-06-17",
     "dry_run": false,
-    "started_at": "2026-06-16 07:00",
+    "started_at": "2026-06-17 07:00",
     "actions": [
       {
-        "repo": "freeCodeCamp/freeCodeCamp",
-        "stars": 447908,
-        "reason": "topic:react",
-        "ts": "2026-06-16 07:00",
+        "repo": "harry0703/MoneyPrinterTurbo",
+        "stars": 88852,
+        "reason": "topic:kw:ai automation",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "vinta/awesome-python",
-        "stars": 303120,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:00",
+        "repo": "lobehub/lobehub",
+        "stars": 78745,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "react/react",
-        "stars": 245885,
-        "reason": "topic:react",
-        "ts": "2026-06-16 07:00",
+        "repo": "ruvnet/RuView",
+        "stars": 74229,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "TheAlgorithms/Python",
-        "stars": 221978,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:00",
+        "repo": "JuliusBrussee/caveman",
+        "stars": 73608,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "tensorflow/tensorflow",
-        "stars": 195679,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:00",
+        "repo": "bytedance/deer-flow",
+        "stars": 71338,
+        "reason": "topic:ai-agents",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "n8n-io/n8n",
-        "stars": 192675,
-        "reason": "topic:typescript",
-        "ts": "2026-06-16 07:01",
+        "repo": "OpenBB-finance/OpenBB",
+        "stars": 69284,
+        "reason": "topic:kw:data agent",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/vscode",
-        "stars": 186348,
-        "reason": "topic:typescript",
-        "ts": "2026-06-16 07:01",
+        "repo": "safishamsi/graphify",
+        "stars": 68237,
+        "reason": "topic:claude-code",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "avelino/awesome-go",
-        "stars": 175540,
-        "reason": "topic:go",
-        "ts": "2026-06-16 07:01",
+        "repo": "microsoft/ai-agents-for-beginners",
+        "stars": 67391,
+        "reason": "topic:ai-agents",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "ollama/ollama",
-        "stars": 174261,
-        "reason": "topic:go",
-        "ts": "2026-06-16 07:01",
+        "repo": "shareAI-lab/learn-claude-code",
+        "stars": 66967,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "yt-dlp/yt-dlp",
-        "stars": 170842,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:01",
+        "repo": "ComposioHQ/awesome-claude-skills",
+        "stars": 64867,
+        "reason": "topic:ai-agents",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "f/prompts.chat",
-        "stars": 163781,
-        "reason": "topic:typescript",
-        "ts": "2026-06-16 07:01",
+        "repo": "D4Vinci/Scrapling",
+        "stars": 64342,
+        "reason": "topic:kw:ai automation",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "huggingface/transformers",
-        "stars": 161612,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:01",
+        "repo": "gsd-build/get-shit-done",
+        "stars": 64279,
+        "reason": "topic:claude-code",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "521xueweihan/HelloGitHub",
-        "stars": 161478,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:01",
+        "repo": "cline/cline",
+        "stars": 63395,
+        "reason": "topic:kw:autonomous",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "langgenius/dify",
-        "stars": 145355,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:01",
+        "repo": "rtk-ai/rtk",
+        "stars": 62994,
+        "reason": "topic:ai-coding",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "vercel/next.js",
-        "stars": 140028,
-        "reason": "topic:react",
-        "ts": "2026-06-16 07:01",
+        "repo": "code-yeongyu/oh-my-openagent",
+        "stars": 62478,
+        "reason": "topic:ai-agents",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "golang/go",
-        "stars": 134727,
-        "reason": "topic:go",
-        "ts": "2026-06-16 07:01",
+        "repo": "Egonex-AI/Understand-Anything",
+        "stars": 61672,
+        "reason": "topic:claude-code",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "react/react-native",
-        "stars": 126015,
-        "reason": "topic:react",
-        "ts": "2026-06-16 07:01",
+        "repo": "addyosmani/agent-skills",
+        "stars": 61277,
+        "reason": "topic:claude-code",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "kubernetes/kubernetes",
-        "stars": 123037,
-        "reason": "topic:kubernetes",
-        "ts": "2026-06-16 07:01",
+        "repo": "shanraisshan/claude-code-best-practice",
+        "stars": 57979,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "Comfy-Org/ComfyUI",
-        "stars": 117127,
-        "reason": "topic:python",
-        "ts": "2026-06-16 07:01",
+        "repo": "santifer/career-ops",
+        "stars": 54225,
+        "reason": "topic:claude",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       },
       {
-        "repo": "shadcn-ui/ui",
-        "stars": 116655,
-        "reason": "topic:react",
-        "ts": "2026-06-16 07:01",
+        "repo": "crewAIInc/crewAI",
+        "stars": 53727,
+        "reason": "topic:kw:autonomous",
+        "ts": "2026-06-17 07:01",
         "mode": "starred"
       }
     ],
     "starred_count": 20,
-    "skipped_already_starred": 8,
+    "skipped_already_starred": 20,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4927,
-    "finished_at": "2026-06-16 07:01",
+    "rate_remaining": 4915,
+    "finished_at": "2026-06-17 07:01",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
