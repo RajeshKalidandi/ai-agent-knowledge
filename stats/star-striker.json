@@ -1168,160 +1168,316 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-18",
+      "dry_run": false,
+      "started_at": "2026-06-18 07:00",
+      "actions": [
+        {
+          "repo": "Snailclimb/JavaGuide",
+          "stars": 156444,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "open-webui/open-webui",
+          "stars": 142041,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "stars": 140805,
+          "reason": "topic:cursor",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "github/spec-kit",
+          "stars": 113440,
+          "reason": "topic:copilot",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "punkpeye/awesome-mcp-servers",
+          "stars": 89370,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "netdata/netdata",
+          "stars": 79248,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "AppFlowy-IO/AppFlowy",
+          "stars": 72520,
+          "reason": "topic:kw:open source ai",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "unclecode/crawl4ai",
+          "stars": 68774,
+          "reason": "topic:kw:open source ai",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "unslothai/unsloth",
+          "stars": 66711,
+          "reason": "topic:kw:tts",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "sansan0/TrendRadar",
+          "stars": 59575,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "RVC-Boss/GPT-SoVITS",
+          "stars": 58772,
+          "reason": "topic:kw:tts",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "upstash/context7",
+          "stars": 57574,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "MemPalace/mempalace",
+          "stars": 55842,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "ggml-org/whisper.cpp",
+          "stars": 50814,
+          "reason": "topic:kw:speech-to-text",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "BerriAI/litellm",
+          "stars": 50726,
+          "reason": "topic:anthropic",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "aaif-goose/goose",
+          "stars": 49697,
+          "reason": "topic:mcp",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "mudler/LocalAI",
+          "stars": 46945,
+          "reason": "topic:kw:tts",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "Aider-AI/aider",
+          "stars": 46391,
+          "reason": "topic:anthropic",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "HKUDS/nanobot",
+          "stars": 44394,
+          "reason": "topic:anthropic",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "asgeirtj/system_prompts_leaks",
+          "stars": 43125,
+          "reason": "topic:anthropic",
+          "ts": "2026-06-18 07:00",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 24,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4911,
+      "finished_at": "2026-06-18 07:00",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-17",
+    "date": "2026-06-18",
     "dry_run": false,
-    "started_at": "2026-06-17 07:00",
+    "started_at": "2026-06-18 07:00",
     "actions": [
       {
-        "repo": "harry0703/MoneyPrinterTurbo",
-        "stars": 88852,
-        "reason": "topic:kw:ai automation",
-        "ts": "2026-06-17 07:01",
+        "repo": "Snailclimb/JavaGuide",
+        "stars": 156444,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "lobehub/lobehub",
-        "stars": 78745,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "open-webui/open-webui",
+        "stars": 142041,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "ruvnet/RuView",
-        "stars": 74229,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "stars": 140805,
+        "reason": "topic:cursor",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "JuliusBrussee/caveman",
-        "stars": 73608,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "github/spec-kit",
+        "stars": 113440,
+        "reason": "topic:copilot",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "bytedance/deer-flow",
-        "stars": 71338,
-        "reason": "topic:ai-agents",
-        "ts": "2026-06-17 07:01",
+        "repo": "punkpeye/awesome-mcp-servers",
+        "stars": 89370,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "OpenBB-finance/OpenBB",
-        "stars": 69284,
-        "reason": "topic:kw:data agent",
-        "ts": "2026-06-17 07:01",
+        "repo": "netdata/netdata",
+        "stars": 79248,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "safishamsi/graphify",
-        "stars": 68237,
-        "reason": "topic:claude-code",
-        "ts": "2026-06-17 07:01",
+        "repo": "AppFlowy-IO/AppFlowy",
+        "stars": 72520,
+        "reason": "topic:kw:open source ai",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/ai-agents-for-beginners",
-        "stars": 67391,
-        "reason": "topic:ai-agents",
-        "ts": "2026-06-17 07:01",
+        "repo": "unclecode/crawl4ai",
+        "stars": 68774,
+        "reason": "topic:kw:open source ai",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "shareAI-lab/learn-claude-code",
-        "stars": 66967,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "unslothai/unsloth",
+        "stars": 66711,
+        "reason": "topic:kw:tts",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "ComposioHQ/awesome-claude-skills",
-        "stars": 64867,
-        "reason": "topic:ai-agents",
-        "ts": "2026-06-17 07:01",
+        "repo": "sansan0/TrendRadar",
+        "stars": 59575,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "D4Vinci/Scrapling",
-        "stars": 64342,
-        "reason": "topic:kw:ai automation",
-        "ts": "2026-06-17 07:01",
+        "repo": "RVC-Boss/GPT-SoVITS",
+        "stars": 58772,
+        "reason": "topic:kw:tts",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "gsd-build/get-shit-done",
-        "stars": 64279,
-        "reason": "topic:claude-code",
-        "ts": "2026-06-17 07:01",
+        "repo": "upstash/context7",
+        "stars": 57574,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "cline/cline",
-        "stars": 63395,
-        "reason": "topic:kw:autonomous",
-        "ts": "2026-06-17 07:01",
+        "repo": "MemPalace/mempalace",
+        "stars": 55842,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "rtk-ai/rtk",
-        "stars": 62994,
-        "reason": "topic:ai-coding",
-        "ts": "2026-06-17 07:01",
+        "repo": "ggml-org/whisper.cpp",
+        "stars": 50814,
+        "reason": "topic:kw:speech-to-text",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "code-yeongyu/oh-my-openagent",
-        "stars": 62478,
-        "reason": "topic:ai-agents",
-        "ts": "2026-06-17 07:01",
+        "repo": "BerriAI/litellm",
+        "stars": 50726,
+        "reason": "topic:anthropic",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "Egonex-AI/Understand-Anything",
-        "stars": 61672,
-        "reason": "topic:claude-code",
-        "ts": "2026-06-17 07:01",
+        "repo": "aaif-goose/goose",
+        "stars": 49697,
+        "reason": "topic:mcp",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "addyosmani/agent-skills",
-        "stars": 61277,
-        "reason": "topic:claude-code",
-        "ts": "2026-06-17 07:01",
+        "repo": "mudler/LocalAI",
+        "stars": 46945,
+        "reason": "topic:kw:tts",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "shanraisshan/claude-code-best-practice",
-        "stars": 57979,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "Aider-AI/aider",
+        "stars": 46391,
+        "reason": "topic:anthropic",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "santifer/career-ops",
-        "stars": 54225,
-        "reason": "topic:claude",
-        "ts": "2026-06-17 07:01",
+        "repo": "HKUDS/nanobot",
+        "stars": 44394,
+        "reason": "topic:anthropic",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       },
       {
-        "repo": "crewAIInc/crewAI",
-        "stars": 53727,
-        "reason": "topic:kw:autonomous",
-        "ts": "2026-06-17 07:01",
+        "repo": "asgeirtj/system_prompts_leaks",
+        "stars": 43125,
+        "reason": "topic:anthropic",
+        "ts": "2026-06-18 07:00",
         "mode": "starred"
       }
     ],
     "starred_count": 20,
-    "skipped_already_starred": 20,
+    "skipped_already_starred": 24,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4915,
-    "finished_at": "2026-06-17 07:01",
+    "rate_remaining": 4911,
+    "finished_at": "2026-06-18 07:00",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
