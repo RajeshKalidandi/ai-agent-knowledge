@@ -1480,160 +1480,260 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-20",
+      "dry_run": false,
+      "started_at": "2026-06-20 07:00",
+      "actions": [
+        {
+          "repo": "public-apis/public-apis",
+          "stars": 442893,
+          "reason": "topic:open-source",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "awesome-selfhosted/awesome-selfhosted",
+          "stars": 300108,
+          "reason": "topic:self-hosted",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "obra/superpowers",
+          "stars": 233377,
+          "reason": "topic:ai",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "microsoft/markitdown",
+          "stars": 156083,
+          "reason": "topic:openai",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "mattpocock/skills",
+          "stars": 136873,
+          "reason": "topic:kw:claude skills",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "godotengine/godot",
+          "stars": 112794,
+          "reason": "topic:open-source",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "immich-app/immich",
+          "stars": 103807,
+          "reason": "topic:self-hosted",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "hacksider/Deep-Live-Cam",
+          "stars": 93983,
+          "reason": "topic:artificial-intelligence",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "louislam/uptime-kuma",
+          "stars": 88240,
+          "reason": "topic:self-hosted",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "vllm-project/vllm",
+          "stars": 83361,
+          "reason": "topic:gpt",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "Stirling-Tools/Stirling-PDF",
+          "stars": 81405,
+          "reason": "topic:self-hosted",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 77788,
+          "reason": "topic:artificial-intelligence",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "redis/redis",
+          "stars": 74992,
+          "reason": "topic:open-source",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "openai/openai-cookbook",
+          "stars": 74265,
+          "reason": "topic:openai",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "hiyouga/LlamaFactory",
+          "stars": 72303,
+          "reason": "topic:gpt",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "nektos/act",
+          "stars": 70833,
+          "reason": "topic:devops",
+          "ts": "2026-06-20 07:00",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 16,
+      "skipped_already_starred": 30,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4918,
+      "finished_at": "2026-06-20 07:00",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-19",
+    "date": "2026-06-20",
     "dry_run": false,
-    "started_at": "2026-06-19 07:00",
+    "started_at": "2026-06-20 07:00",
     "actions": [
       {
-        "repo": "ultraworkers/claw-code",
-        "stars": 194029,
-        "reason": "topic:kw:coding agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "public-apis/public-apis",
+        "stars": 442893,
+        "reason": "topic:open-source",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "ohmyzsh/ohmyzsh",
-        "stars": 188113,
-        "reason": "topic:terminal",
-        "ts": "2026-06-19 07:00",
+        "repo": "awesome-selfhosted/awesome-selfhosted",
+        "stars": 300108,
+        "reason": "topic:self-hosted",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "anomalyco/opencode",
-        "stars": 176108,
-        "reason": "topic:kw:coding agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "obra/superpowers",
+        "stars": 233377,
+        "reason": "topic:ai",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "langflow-ai/langflow",
-        "stars": 149823,
-        "reason": "topic:kw:ai agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "microsoft/markitdown",
+        "stars": 156083,
+        "reason": "topic:openai",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "anthropics/claude-code",
-        "stars": 133229,
-        "reason": "topic:kw:coding agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "mattpocock/skills",
+        "stars": 136873,
+        "reason": "topic:kw:claude skills",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "Shubhamsaboo/awesome-llm-apps",
-        "stars": 114983,
-        "reason": "topic:rag",
-        "ts": "2026-06-19 07:00",
+        "repo": "godotengine/godot",
+        "stars": 112794,
+        "reason": "topic:open-source",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "msitarzewski/agency-agents",
-        "stars": 114423,
-        "reason": "topic:kw:ai agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "immich-app/immich",
+        "stars": 103807,
+        "reason": "topic:self-hosted",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/generative-ai-for-beginners",
-        "stars": 112128,
-        "reason": "topic:prompt-engineering",
-        "ts": "2026-06-19 07:00",
+        "repo": "hacksider/Deep-Live-Cam",
+        "stars": 93983,
+        "reason": "topic:artificial-intelligence",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "garrytan/gstack",
-        "stars": 111238,
-        "reason": "topic:kw:claude code",
-        "ts": "2026-06-19 07:00",
+        "repo": "louislam/uptime-kuma",
+        "stars": 88240,
+        "reason": "topic:self-hosted",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/terminal",
-        "stars": 103641,
-        "reason": "topic:terminal",
-        "ts": "2026-06-19 07:00",
+        "repo": "vllm-project/vllm",
+        "stars": 83361,
+        "reason": "topic:gpt",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "pytorch/pytorch",
-        "stars": 100864,
-        "reason": "topic:machine-learning",
-        "ts": "2026-06-19 07:00",
+        "repo": "Stirling-Tools/Stirling-PDF",
+        "stars": 81405,
+        "reason": "topic:self-hosted",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "rasbt/LLMs-from-scratch",
-        "stars": 97365,
-        "reason": "topic:machine-learning",
-        "ts": "2026-06-19 07:00",
+        "repo": "OpenHands/OpenHands",
+        "stars": 77788,
+        "reason": "topic:artificial-intelligence",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "puppeteer/puppeteer",
-        "stars": 95081,
-        "reason": "topic:developer-tools",
-        "ts": "2026-06-19 07:00",
+        "repo": "redis/redis",
+        "stars": 74992,
+        "reason": "topic:open-source",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "openai/codex",
-        "stars": 92030,
-        "reason": "topic:kw:coding agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "openai/openai-cookbook",
+        "stars": 74265,
+        "reason": "topic:openai",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "VoltAgent/awesome-design-md",
-        "stars": 91325,
-        "reason": "topic:kw:coding agent",
-        "ts": "2026-06-19 07:00",
+        "repo": "hiyouga/LlamaFactory",
+        "stars": 72303,
+        "reason": "topic:gpt",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/playwright",
-        "stars": 91222,
-        "reason": "topic:automation",
-        "ts": "2026-06-19 07:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "opencv/opencv",
-        "stars": 89248,
-        "reason": "topic:deep-learning",
-        "ts": "2026-06-19 07:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "microsoft/ML-For-Beginners",
-        "stars": 87010,
-        "reason": "topic:machine-learning",
-        "ts": "2026-06-19 07:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "PaddlePaddle/PaddleOCR",
-        "stars": 82991,
-        "reason": "topic:rag",
-        "ts": "2026-06-19 07:00",
-        "mode": "starred"
-      },
-      {
-        "repo": "Developer-Y/cs-video-courses",
-        "stars": 81849,
-        "reason": "topic:machine-learning",
-        "ts": "2026-06-19 07:00",
+        "repo": "nektos/act",
+        "stars": 70833,
+        "reason": "topic:devops",
+        "ts": "2026-06-20 07:00",
         "mode": "starred"
       }
     ],
-    "starred_count": 20,
-    "skipped_already_starred": 19,
+    "starred_count": 16,
+    "skipped_already_starred": 30,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4916,
-    "finished_at": "2026-06-19 07:00",
+    "rate_remaining": 4918,
+    "finished_at": "2026-06-20 07:00",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
