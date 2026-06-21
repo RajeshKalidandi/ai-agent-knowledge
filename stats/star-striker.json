@@ -1608,132 +1608,316 @@
       "seeds_total": 6,
       "seeds_verified": 6,
       "discovery_candidates": 40
+    },
+    {
+      "date": "2026-06-21",
+      "dry_run": false,
+      "started_at": "2026-06-21 07:00",
+      "actions": [
+        {
+          "repo": "neovim/neovim",
+          "stars": 100563,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "fastapi/fastapi",
+          "stars": 99435,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "hoppscotch/hoppscotch",
+          "stars": 79595,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "tesseract-ocr/tesseract",
+          "stars": 74849,
+          "reason": "topic:ocr",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "ocornut/imgui",
+          "stars": 73974,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "strapi/strapi",
+          "stars": 72416,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "opendatalab/MinerU",
+          "stars": 68145,
+          "reason": "topic:ocr",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "nocodb/nocodb",
+          "stars": 63500,
+          "reason": "topic:rest-api",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "scrapy/scrapy",
+          "stars": 62347,
+          "reason": "topic:web-scraping",
+          "ts": "2026-06-21 07:00",
+          "mode": "starred"
+        },
+        {
+          "repo": "meilisearch/meilisearch",
+          "stars": 58207,
+          "reason": "topic:api",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "gatsbyjs/gatsby",
+          "stars": 55939,
+          "reason": "topic:graphql",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "prettier/prettier",
+          "stars": 52072,
+          "reason": "topic:graphql",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "twentyhq/twenty",
+          "stars": 50868,
+          "reason": "topic:graphql",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "TanStack/query",
+          "stars": 49802,
+          "reason": "topic:graphql",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "metabase/metabase",
+          "stars": 47772,
+          "reason": "topic:kw:embedding",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "oobabooga/textgen",
+          "stars": 47344,
+          "reason": "topic:kw:llm tool",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "apache/airflow",
+          "stars": 45881,
+          "reason": "topic:kw:ai automation",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "zhayujie/CowAgent",
+          "stars": 45496,
+          "reason": "topic:kw:llm tool",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "usebruno/bruno",
+          "stars": 45046,
+          "reason": "topic:rest-api",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        },
+        {
+          "repo": "milvus-io/milvus",
+          "stars": 44858,
+          "reason": "topic:kw:vector search",
+          "ts": "2026-06-21 07:01",
+          "mode": "starred"
+        }
+      ],
+      "starred_count": 20,
+      "skipped_already_starred": 24,
+      "skipped_unverifiable": 0,
+      "aborted": false,
+      "rate_remaining": 4911,
+      "finished_at": "2026-06-21 07:01",
+      "seeds_total": 6,
+      "seeds_verified": 6,
+      "discovery_candidates": 40
     }
   ],
   "last_run": {
-    "date": "2026-06-20",
+    "date": "2026-06-21",
     "dry_run": false,
-    "started_at": "2026-06-20 07:00",
+    "started_at": "2026-06-21 07:00",
     "actions": [
       {
-        "repo": "public-apis/public-apis",
-        "stars": 442893,
-        "reason": "topic:open-source",
-        "ts": "2026-06-20 07:00",
+        "repo": "neovim/neovim",
+        "stars": 100563,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "awesome-selfhosted/awesome-selfhosted",
-        "stars": 300108,
-        "reason": "topic:self-hosted",
-        "ts": "2026-06-20 07:00",
+        "repo": "fastapi/fastapi",
+        "stars": 99435,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "obra/superpowers",
-        "stars": 233377,
-        "reason": "topic:ai",
-        "ts": "2026-06-20 07:00",
+        "repo": "hoppscotch/hoppscotch",
+        "stars": 79595,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "microsoft/markitdown",
-        "stars": 156083,
-        "reason": "topic:openai",
-        "ts": "2026-06-20 07:00",
+        "repo": "tesseract-ocr/tesseract",
+        "stars": 74849,
+        "reason": "topic:ocr",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "mattpocock/skills",
-        "stars": 136873,
-        "reason": "topic:kw:claude skills",
-        "ts": "2026-06-20 07:00",
+        "repo": "ocornut/imgui",
+        "stars": 73974,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "godotengine/godot",
-        "stars": 112794,
-        "reason": "topic:open-source",
-        "ts": "2026-06-20 07:00",
+        "repo": "strapi/strapi",
+        "stars": 72416,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "immich-app/immich",
-        "stars": 103807,
-        "reason": "topic:self-hosted",
-        "ts": "2026-06-20 07:00",
+        "repo": "opendatalab/MinerU",
+        "stars": 68145,
+        "reason": "topic:ocr",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "hacksider/Deep-Live-Cam",
-        "stars": 93983,
-        "reason": "topic:artificial-intelligence",
-        "ts": "2026-06-20 07:00",
+        "repo": "nocodb/nocodb",
+        "stars": 63500,
+        "reason": "topic:rest-api",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "louislam/uptime-kuma",
-        "stars": 88240,
-        "reason": "topic:self-hosted",
-        "ts": "2026-06-20 07:00",
+        "repo": "scrapy/scrapy",
+        "stars": 62347,
+        "reason": "topic:web-scraping",
+        "ts": "2026-06-21 07:00",
         "mode": "starred"
       },
       {
-        "repo": "vllm-project/vllm",
-        "stars": 83361,
-        "reason": "topic:gpt",
-        "ts": "2026-06-20 07:00",
+        "repo": "meilisearch/meilisearch",
+        "stars": 58207,
+        "reason": "topic:api",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "Stirling-Tools/Stirling-PDF",
-        "stars": 81405,
-        "reason": "topic:self-hosted",
-        "ts": "2026-06-20 07:00",
+        "repo": "gatsbyjs/gatsby",
+        "stars": 55939,
+        "reason": "topic:graphql",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "OpenHands/OpenHands",
-        "stars": 77788,
-        "reason": "topic:artificial-intelligence",
-        "ts": "2026-06-20 07:00",
+        "repo": "prettier/prettier",
+        "stars": 52072,
+        "reason": "topic:graphql",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "redis/redis",
-        "stars": 74992,
-        "reason": "topic:open-source",
-        "ts": "2026-06-20 07:00",
+        "repo": "twentyhq/twenty",
+        "stars": 50868,
+        "reason": "topic:graphql",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "openai/openai-cookbook",
-        "stars": 74265,
-        "reason": "topic:openai",
-        "ts": "2026-06-20 07:00",
+        "repo": "TanStack/query",
+        "stars": 49802,
+        "reason": "topic:graphql",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "hiyouga/LlamaFactory",
-        "stars": 72303,
-        "reason": "topic:gpt",
-        "ts": "2026-06-20 07:00",
+        "repo": "metabase/metabase",
+        "stars": 47772,
+        "reason": "topic:kw:embedding",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       },
       {
-        "repo": "nektos/act",
-        "stars": 70833,
-        "reason": "topic:devops",
-        "ts": "2026-06-20 07:00",
+        "repo": "oobabooga/textgen",
+        "stars": 47344,
+        "reason": "topic:kw:llm tool",
+        "ts": "2026-06-21 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "apache/airflow",
+        "stars": 45881,
+        "reason": "topic:kw:ai automation",
+        "ts": "2026-06-21 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "zhayujie/CowAgent",
+        "stars": 45496,
+        "reason": "topic:kw:llm tool",
+        "ts": "2026-06-21 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "usebruno/bruno",
+        "stars": 45046,
+        "reason": "topic:rest-api",
+        "ts": "2026-06-21 07:01",
+        "mode": "starred"
+      },
+      {
+        "repo": "milvus-io/milvus",
+        "stars": 44858,
+        "reason": "topic:kw:vector search",
+        "ts": "2026-06-21 07:01",
         "mode": "starred"
       }
     ],
-    "starred_count": 16,
-    "skipped_already_starred": 30,
+    "starred_count": 20,
+    "skipped_already_starred": 24,
     "skipped_unverifiable": 0,
     "aborted": false,
-    "rate_remaining": 4918,
-    "finished_at": "2026-06-20 07:00",
+    "rate_remaining": 4911,
+    "finished_at": "2026-06-21 07:01",
     "seeds_total": 6,
     "seeds_verified": 6,
     "discovery_candidates": 40
